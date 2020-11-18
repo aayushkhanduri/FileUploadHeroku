@@ -63,7 +63,7 @@
 
     @foreach($files as $file)
     <ul>
-        <li> {{ $file }}</li>
+        <li>{{ $file }}</li>
     </ul>
     @endforeach
         
